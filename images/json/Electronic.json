@@ -1,0 +1,48 @@
+[
+  {
+    "id" : "0",
+    "Name": "Floral Print Frock",
+    "Old_price" : "Rs.4200.00",
+    "New_price" : "Rs 3462.00",
+    "image" : "images/image/WhatsApp Image 2024-03-17 at 21.50.13_825e46cc.jpg"
+  },
+
+  {
+    "id" : "1",
+    "Name": "Full sleeve t-shirt",
+    "Old_price" : "Rs.3600.00",
+    "New_price" : "Rs 2880.00",
+    "image" : "images/image/WhatsApp Image 2024-03-17 at 21.50.15_826f2bcb.jpg"
+  },
+  {
+    "id" : "2",
+    "Name": "T-shirt for men",
+    "Old_price" : "Rs.2300.00",
+    "New_price" : "Rs 1840.00",
+    "image" : "images/image/WhatsApp Image 2024-03-17 at 21.50.14_a1585407.jpg"
+  },
+
+  {
+    "id" : "3",
+    "Name": "Denim for men",
+    "Old_price" : "Rs.5600.00",
+    "New_price" : "Rs 4480.00",
+    "image" : "images/image/WhatsApp Image 2024-03-11 at 16.05.57_7ebbc46c.jpg"
+  },
+
+  {
+    "id" : "4",
+    "Name": "Bloom pant for women",
+    "Old_price" : "Rs.4320.00",
+    "New_price" : "Rs 5400.00",
+    "image" : "images/image/WhatsApp Image 2024-03-11 at 16.05.57_6dd3bc72.jpg"
+  },
+
+  {
+    "id" : "5",
+    "Name": "Crop top",
+    "Old_price" : "Rs.2800.00",
+    "New_price" : "Rs 1840.00",
+    "image" : "images/image/WhatsApp Image 2024-03-17 at 21.50.14_4e806748.jpg"
+  }
+]
